@@ -5,9 +5,7 @@ I'm Shrey, a Computer Engineering graduate and Data Science enthusiast passionat
 🔭 Current Focus
 
 NLP & Summarization: Developing advanced models using Transformer architectures.
-
 Interactive Web Apps: Building AI-driven solutions with Streamlit.
-
 Data Analytics: Exploring techniques to extract insights and support decision-making.
 
 🌟 Key Project
@@ -17,11 +15,8 @@ Legal Text SummarizationAutomated legal document summarizer using T5 and PyMuPDF
 🛠️ Tech Stack
 
 Languages: Python · Java · Rust · JavaScript
-
 Frameworks & Tools: Streamlit · Transformers (Hugging Face) · TensorFlow · scikit-learn
-
 Databases & Platforms: SQL · Unix/Linux environments
-
 Data & ML: NLP · Data Structures · Algorithms · Model Evaluation (ROUGE)
 
 🏆 Achievements
