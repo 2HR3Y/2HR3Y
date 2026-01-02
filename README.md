@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Shrey, a Computer Engineering graduate and Data Science enthusiast passionate about building software solutions and leveraging machine learning to solve real-world problems. With hands-on experience across full project lifecycles—from data pipelines and NLP model training to deploying Streamlit apps—I thrive on creating tools that enhance efficiency and drive innovation.
+I'm Shrey, a Computer Engineering graduate and Data Science enthusiast passionate about building software solutions and leveraging machine learning to solve real-world problems. With hands-on experience across full project lifecycles from data pipelines and NLP model training to deploying Streamlit app —I thrive on creating tools that enhance efficiency and drive innovation.
 
 🔭 Current Focus
 
